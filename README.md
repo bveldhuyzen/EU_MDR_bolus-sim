@@ -89,16 +89,24 @@ Of .manufacturer_5 ($NAME), the bolus calculator specifications are entirely abs
 >
 --------------------------------
 
+>.[1] $SOURCE_1
+>
+>.[2] $SOURCE_2
+>
+>.[3] $SOURCE_3
+>
+>.[4] $SOURCE_4
+>
+>.[5] $SOURCE_5
+>
+>.[6] $SOURCE_6
+>
+>.[7] $SOURCE_7
+>
+>.[8] $SOURCE_8
+>
+>.[9] $SOURCE_9
 
->[1] $SOURCE_1
->[2] $SOURCE_2
->[3] $SOURCE_3
->[4] $SOURCE_4
->[5] $SOURCE_5
->[6] $SOURCE_6
->[7] $SOURCE_7 
->[8] $SOURCE_8
->[9] $SOURCE_9
-
+--------------------------------
 
 End of introduction
