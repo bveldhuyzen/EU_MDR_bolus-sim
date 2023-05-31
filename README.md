@@ -79,14 +79,15 @@ Of .manufacturer_5 ($NAME), the bolus calculator specifications are entirely abs
 
 --------------------------------
 
-.Categories: Multidisciplinary, not elsewhere classified
+`
+Categories: Multidisciplinary, not elsewhere classified
 
 .Types: Document research, format and prototype development, device validation
 
 .Funding: Private
 
 .Timeline: Ongoing
-
+`
 --------------------------------
 
 
@@ -96,9 +97,7 @@ Of .manufacturer_5 ($NAME), the bolus calculator specifications are entirely abs
 [4] $SOURCE_4
 [5] $SOURCE_5
 [6] $SOURCE_6
-[7] $SOURCE_7 End of introduction
-105
-
+[7] $SOURCE_7 
 [8] $SOURCE_8
 [9] $SOURCE_9
 
