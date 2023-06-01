@@ -38,15 +38,12 @@ repository@boluscalculators.com, so that we may verify and spread the word of yo
 
 Are you a user of one of the medical devices reviewed in this repository, then of course for any inquiries, suggestions, complaints, et cetera, do not hesitate to contact us. We also provide support to users in conflict or disagreement with (for example) manufacturer(s). We are not allowed to provide medical assistance, but we can open doors that you cannot. This service is for free: users@boluscalculators.com
 
-Are you a manufacturer of one of the reviewed devices, then as of 1 June 2023 for any questions a monetary charge applies per one reply (email only), excluding costs that might emerge from the nature of your inquiry. 
-Are you a manufacturer that replied to our inquiries within acceptable timeframe, then for any questions, €0 per inquiry.
-
 Are you any other party that feels the need to contact us, please also feel free to do so via repository@boluscalculators.com
 
 To add device for review --> 
 Provide manufacturer name and device model to devices@boluscalculators.com, and we will take a keen look at the device and its manufacturer's procedures.
 
-For custom testing services, please contact: toolmaster [at] boluscalculators dot com.
+For other/custom testing services, please contact: toolmaster [at] boluscalculators dot com.
 
 These services are for free / privately funded. If an exception arises, e.g. an extremely high cost due to the nature of your inquiry, then you will be informed of the specifics.
 
