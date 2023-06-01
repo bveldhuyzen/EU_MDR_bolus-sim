@@ -38,8 +38,6 @@ repository@boluscalculators.com, so that we may verify and spread the word of yo
 
 Are you a user of one of the medical devices reviewed in this repository, then of course for any inquiries, suggestions, complaints, et cetera, do not hesitate to contact us. We are not allowed to provide medical assistance, but we can possibly open doors that you cannot. This service is for free: users@boluscalculators.com
 
-!NOTE: Please not not ever provide us with proprietary or private/medical information that may cause any form of damage to you or any other party, or which may be infringement of privacy, or which may be in conflict with copyright. Such information will not be accepted, and the sender will be traced and reported to the authorities.
-
 Are you any other party that feels the need to contact us, please also feel free to do so via repository@boluscalculators.com
 
 To add device for review --> 
@@ -48,6 +46,9 @@ Provide manufacturer name and device model to devices@boluscalculators.com, and 
 For other/custom testing services, please contact: toolmaster [at] boluscalculators dot com.
 
 These services are for free / privately funded. If an exception arises, e.g. an extremely high cost due to the nature of your inquiry, then you will be informed of the specifics.
+
+!NOTE: Please not not ever provide us with proprietary or private/medical information that may cause any form of damage to you or any other party, or which may be infringement of privacy, or which may be in conflict with copyright. Such information will not be accepted, and the sender will be traced and reported to the authorities.
+
 
 --------------------------------
 
