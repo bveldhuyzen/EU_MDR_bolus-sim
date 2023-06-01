@@ -36,7 +36,7 @@ A well-informed consultant would also have contacted a regulatory authority and/
 Are you a consultant that informed your client(s) of the above mentioned before the date of 3 September 2021, then feel free to email us at 
 repository@boluscalculators.com, so that we may verify and spread the word of your consulting qualities.
 
-Are you a user of one of the medical devices reviewed in this repository, then of course for any inquiries, suggestions, complaints, et cetera, do not hesitate to contact us. We also provide support to users in conflict or disagreement with (for example) manufacturer(s). We are not allowed to provide medical assistance, but we can open doors that you cannot. This service is for free: users@boluscalculators.com
+Are you a user of one of the medical devices reviewed in this repository, then of course for any inquiries, suggestions, complaints, et cetera, do not hesitate to contact us. We are not allowed to provide medical assistance, but we can possibly open doors that you cannot. This service is for free: users@boluscalculators.com
 
 Are you any other party that feels the need to contact us, please also feel free to do so via repository@boluscalculators.com
 
