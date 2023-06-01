@@ -37,6 +37,7 @@ Are you a consultant that informed your client(s) of the above mentioned before 
 repository@boluscalculators.com, so that we may verify and spread the word of your consulting qualities.
 
 Are you a user of one of the medical devices reviewed in this repository, then of course for any inquiries, suggestions, complaints, et cetera, do not hesitate to contact us. We are not allowed to provide medical assistance, but we can possibly open doors that you cannot. This service is for free: users@boluscalculators.com
+NOTE: Please not not ever provide us with proprietary or private/medical information that may cause any form of damage to you or any other party, or which may be infringement of privacy, or which may be in conflict with copyright. Such infornation will be deleted, and the sender will be traced and reported to the authorities.
 
 Are you any other party that feels the need to contact us, please also feel free to do so via repository@boluscalculators.com
 
