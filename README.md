@@ -6,7 +6,7 @@
 
 Hello world,
 
-This repository is created to support all parties involved in so-called insulin pump bolus calculators, specifically but not exclusively those available in The Netherlands (the 'EU'). The information in this repository is for educational purposes only. Practical application, specifically when treatment is involved, is not in the scope of this repository. Use in the wild and/or unvalidated use of any kind is not recommended.[1] All matters related to treatment are to be validated and supervised by authorized healthcare providers.[2][3]   
+This repository is created to support all parties involved in so-called insulin pump bolus calculators, specifically but not exclusively those available in The Netherlands (the 'EU'). The information in this repository is for educational purposes only. Practical application, specifically when treatment is involved, is not in the scope of this repository. All matters related to treatment are to be validated and supervised by authorized healthcare providers.[*][*] Use in the wild and/or unvalidated use of any kind is not recommended.[3]
 
 All devices discussed in this repository are subject to strict regulations.[4][5] Manufacturers must perform extensive testing procedures before a release on the market is allowed.[6][7] Yet, miscalculations of the bolus calculator are not unheard of.[8][9] Miscalculation of a bolus may result in the user administering an incorrect dose of insulin. This may cause harm and even death of the user.[10] Adequate documentation of the specifications of bolus calculations in the instructions for use is therefore of great importance for validation purposes.[11] Users and healthcare providers must be able to confirm if the device works as intended, at all times.[12]
 
