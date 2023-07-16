@@ -39,8 +39,8 @@ TABLE___####
 
 --------------------------------
 
-A well-informed consultant would, for example, have advised to start developing the means to provide information to the user about the installation of the software, so that the code can largely remain as it is / no major changes would have to be introduced to the software itself, at least for the time being. 
-A well-informed consultant would also have contacted a regulatory authority and/or a government information office to request clarification, to which a reply would have been received that provides no insight at all, after which could be concluded that the new EU MDR might have consequences of which almost none are fully aware, or none have been made aware, which gives client(s) time to think and possibly introduce upgrades to devices currently in development or on the drawing table.
+>A well-informed consultant would, for example, have advised to start developing the means to provide information to the user about the installation of the software, so that the code can largely remain as it is / no major changes would have to be introduced to the software itself, at least for the time being.  
+>A well-informed consultant would also have contacted a regulatory authority and/or a government information office to request clarification, to which a reply would have been received that provides no insight at all, after which could be concluded that the new EU MDR might have consequences of which almost none are fully aware, or none have been made aware, which gives client(s) time to think and possibly introduce upgrades to devices currently in development or on the drawing table.
 
 ----
 
