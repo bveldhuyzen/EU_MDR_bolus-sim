@@ -58,7 +58,7 @@ For other/custom testing services, please contact: toolmaster [at] boluscalculat
 
 These services are for free / privately funded. If an exception arises, e.g. high costs due to the nature of your inquiry, then you will be informed of the specifics. 
 
-!NOTE: Please not not ever provide us with proprietary or private/medical information that may cause any form of damage to you or any other party, or which may be infringement of privacy, copyright, contract, et cetera. Such information will not be accepted. If necessary, the sender will be reported to the authorities.
+!NOTE: Please do not ever provide us with proprietary or private/medical information that may cause any form of damage to you or any other party, or which may be infringement of privacy, copyright, contract, et cetera. Such information will not be accepted. If necessary, the sender will be reported to the authorities.
 
 
 --------------------------------
