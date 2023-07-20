@@ -16,7 +16,7 @@ According to EU MDR (EU 2017/745) Chapter III 23.1, if manufacturer has a websit
 
 When manufacturers were contacted for clarification, of only one device the requested specifications were provided within acceptable timeframe (days, weeks). Of one manufacturer, a clarification (for all devices) was received after >1 year, but only after an escalation cascade was introduced. For none of the other devices the requested specifications were provided, nor have adequate updates been released of the system user guide or the website.[17]
 
-To protect the users against possible incompliance of manufacturers and healthcare providers, and to protect manufacturers and healthcare providers against possible incompetence of consultants and research firms, methods have been tested and applied to detect certain forms of incompliance and incompetence. These methods are discussed in our reports, to be released at later dates.[18][19][20]  
+To protect the users against possible incompliance of manufacturers and healthcare providers, and to protect manufacturers and healthcare providers against possible incompetence of consultants and research firms, methods have been tested and applied to detect certain forms of incompliance and incompetence. These methods are discussed in this repository's reports, to be released at later dates.[18][19][20]  
 Furthermore, this repository is in support of the perspective that high quality doesn't necessarily involve high costs, if one understands the essence of what is and what is not. The information and services provided via this repository are therefore free of charge.
 
 
