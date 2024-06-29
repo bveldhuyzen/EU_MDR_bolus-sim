@@ -51,12 +51,6 @@ Are you any other party that feels the need to contact us, please also feel free
 To add device for review --> 
 Provide manufacturer name and device model to devices@boluscalculators.com, and we will take a keen look at the device and its manufacturer's procedures.
 
-For other/custom testing services, please contact: toolmaster [at] boluscalculators dot com.
-
-These services are for free / privately funded. If an exception arises, e.g. high costs due to the nature of your inquiry, then you will be informed of the specifics. 
-
-!NOTE: Please do not ever provide us with proprietary or private/medical information that may cause any form of damage to you or any other party, or which may be infringement of privacy, copyright, contract, et cetera. Such information will not be accepted. If necessary, the sender will be reported to the authorities.
-
 
 --------------------------------
 
